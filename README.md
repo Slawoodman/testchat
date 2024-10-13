@@ -24,5 +24,6 @@
     python manage.py runserver
 
 5. User info:
-    ```username: admin
+    ```bash
+    username: admin
     password: admin
